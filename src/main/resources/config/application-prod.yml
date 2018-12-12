@@ -45,7 +45,7 @@ spring:
         type: com.zaxxer.hikari.HikariDataSource
         url: jdbc:mariadb://localhost:3306/GestionEtudiants?useLegacyDatetimeCode=false
         username: root
-        password:
+        password: toor
         hikari:
             auto-commit: false
             data-source-properties:
