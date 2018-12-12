@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.monappligateway.mongateaway",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "gateway",
+    "baseName": "GestionEtudiants",
+    "packageName": "com.monappligateway.mongateaway",
+    "packageFolder": "com/monappligateway/mongateaway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZTE5ZTJjNGRlZTM3NDYyMmU1MTFhOThkM2JkMDJiYmFiZjU1MjNlNGRlMDIzMWZlZjcwYjdiNzY3ZDg1MmRmOGE1MWQ5NGJlOTY2YzliNDhiYWFlNGJjZmRjNmU0MjY1YzY5OGRkNmYyNzc2NmZkMzk5ODk5NWMyMTM3YzJmYzI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ]
+  }
+}
